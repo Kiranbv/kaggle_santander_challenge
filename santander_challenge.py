@@ -1,5 +1,4 @@
-# This program implements the santander challenge from kaggle. The goal of this
-# project 
+# This program implements the santander challenge from kaggle. 
 
 
 # Importing important modules
